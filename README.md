@@ -1,0 +1,2 @@
+# LTGcoin
+Export-import payment
